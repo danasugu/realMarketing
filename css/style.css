@@ -1,12 +1,2 @@
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-}
-
-body {
-  font-family: Arial, Helvetica, sans-serif;
-  line-height: 1.6;
-  background-color: #f4f4f4;
-}
+*{margin:0;padding:0;box-sizing:border-box}body{font-family:Arial,Helvetica,sans-serif;line-height:1.6;background-color:#f4f4f4}.showcase{background:#0e6cff;color:#fff;height:600px}
 /*# sourceMappingURL=style.css.map */
