@@ -38,6 +38,7 @@ a {
 
     a:hover {
       color: $secondary-color;
+      border-bottom: 2px $secondary-color solid;
     }
   }
   a {
