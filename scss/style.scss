@@ -19,6 +19,7 @@ body {
   background: $primary-color;
   color: #fff;
   height: 600px;
+
   nav {
     display: flex;
     align-items: center;
@@ -27,7 +28,6 @@ body {
     ul {
       display: flex;
       list-style-type: none;
-      
     }
   }
 }
