@@ -14,6 +14,9 @@ body {
   line-height: 1.6;
   background-color: $light-color;
 }
+a {
+  text-decoration: none;
+}
 
 .showcase {
   background: $primary-color;
