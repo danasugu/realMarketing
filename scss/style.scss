@@ -15,6 +15,13 @@ body {
   background-color: $light-color;
 }
 
+nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+  ul{}
+}
 .showcase {
   background: $primary-color;
   color: #fff;
